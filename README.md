@@ -9,12 +9,31 @@
 ##### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Grxn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grr.xn)
 
+<img src="https://raw.githubusercontent.com/Grx-n/Grx-n/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Grx-n/Grx-n/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Grx-n/Grx-n/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Grx-n/Grx-n/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Grx-n/count.svg?"  />
+</div>
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Grx-n&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ##### 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@GarNaldi) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@GarNaldi)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 
 
 <!--
