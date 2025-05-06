@@ -13,12 +13,19 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Grx-n/Grx-n/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Grx-n/Grx-n/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Grx-n/Grx-n/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Grx-n/count.svg?"  />
 </div>
 
 ###
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Grx-n&icon=0&color=0)](https://visitcount.itsvg.in)
 
